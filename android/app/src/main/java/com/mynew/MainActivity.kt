@@ -1,4 +1,4 @@
-package com.mynew
+package com.shouvik.newapp
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

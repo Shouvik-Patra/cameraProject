@@ -1,4 +1,4 @@
-package com.mynew
+package com.shouvik.newapp
 
 import android.app.Application
 import com.facebook.react.PackageList
